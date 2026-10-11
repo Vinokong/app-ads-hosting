@@ -1,0 +1,2 @@
+google.com, pub-4128119145241657, DIRECT, f08c47fec0942fa0
+ironsource.com, 689677, DIRECT, e029272338c50541
