@@ -16,6 +16,6 @@ The app integrates Google AdMob and ironSource LevelPlay to display ads. These s
 ## 3. Children's Privacy
 ThermalGlider 2D is a general audience arcade game and does not knowingly collect personal data from children under 13.
 
-## 4. Contact Us
+
 <h3>4. Contact Us</h3>
-<p>If you have any questions, feedback, or support requests regarding ThermalGlider 2D, please contact us at: <a href="mailto:ephekad@gmail.com">ephekad@gmail.com</a></p>
+<p>If you have any questions, feedback, or support requests regarding ThermalGlider 2D, please contact us at: <a href="mailto:OnivInteractive@gmail.com">ephekad@gmail.com</a></p>
