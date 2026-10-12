@@ -18,4 +18,4 @@ ThermalGlider 2D is a general audience arcade game and does not knowingly collec
 
 
 <h3>4. Contact Us</h3>
-<p>If you have any questions, feedback, or support requests regarding ThermalGlider 2D, please contact us at: <a href="mailto:OnivInteractive@gmail.com">ephekad@gmail.com</a></p>
+<p>If you have any questions, feedback, or support requests regarding ThermalGlider 2D, please contact us at: <a href="mailto:OnivInteractive@gmail.com">OnivInteractive@gmail.com</a></p>
